@@ -1,2 +1,0 @@
-# Bhushido
-Code of Conduct
