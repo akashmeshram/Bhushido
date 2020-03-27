@@ -17,7 +17,7 @@ int main()
     TreeNode* p = new TreeNode(5);
     TreeNode* l = new TreeNode(10);
     p->left = l;
-    cout << p->left->val;
+    cout << p->left->val << '\n';
 
     return 0;
 }
